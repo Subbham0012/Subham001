@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Sarangi</h1>
-<h3 align="center">A passionate About AI & ML</h3>
+<h3 align="center">Passionate About AI & ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham0012&label=Profile%20views&color=0e75b6&style=flat" alt="subham0012" /> </p>
 
